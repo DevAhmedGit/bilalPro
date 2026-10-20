@@ -504,6 +504,7 @@ p {
 }
 
 .profile-image {
+    object-position: top;
     width: 100%;
     aspect-ratio: 1;
     object-fit: cover;
